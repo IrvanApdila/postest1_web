@@ -92,9 +92,9 @@
                 </ul>
 
             </div>
-            @yield('content')
         </div>
     </nav>
+    @yield('content')
 </body>
 
 </html>
